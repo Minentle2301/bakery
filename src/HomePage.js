@@ -4,45 +4,33 @@ function AboutUsPage() {
   return (
     <div className="about-us-container">
       <div className="about-us-content">
-      <img
-          src="products.jpg"
-          alt="Products"
-          className="about-us-image"
-        />
+     
         
-        <h1 className='header'>THE HOME OF HEAVENLY DELIGHTS</h1>
+        <h1 className='header'>Mini Loves Baking</h1>
+        
+  
+        
         <p className='homepage'>
-          Welcome to Sweet Delights Bakery, where passion for baking meets
-          exceptional taste. We are a family-owned bakery with a rich history
-          of creating delectable treats that have delighted our customers for
-          generations.
-        </p>
-        <img
-          src="outside-bakery.jpg"
-          alt="Outside Bakery"
-          className="about-us-image"
-        />
-        <p className='homepage'>
-          Our journey began in a small kitchen, where our founder perfected
+          Mini loves baking began in a small rural kitchen, where our founder perfected, Mini 
           recipes passed down through the years. Today, we continue to uphold
           those traditions, using only the finest ingredients to craft
           mouthwatering brownies, cookies, cakes, bread, eclairs, cinnamon rolls,
           and more.
         </p>
         <img
-          src="kneading.jpg"
-          alt="kneading"
+          src="https://cdnimg.webstaurantstore.com/uploads/blog/2018/8/start-a-bakery-bakery-display-case.jpg"
+          alt="bread"
           className="about-us-image"
         />
         <p className='homepage'>
-          At Sweet Delights Bakery, we believe that every bite should be a
+          At Mini Loves Baking, we believe that every bite should be a
           moment of pure joy. That's why we pour our hearts and souls into
           every creation, ensuring that each treat is a masterpiece of flavor
           and freshness.
         </p>
         <img
-          src="donutstack.jpg"
-          alt="donuts"
+          src="https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-4.jpg"
+          alt="cookies"
           className="about-us-image"
         />
         <p className='homepage'>
@@ -52,8 +40,8 @@ function AboutUsPage() {
           cravings.
         </p>
         <img
-          src="letters.jpg"
-          alt="bakery-letters"
+          src="https://ohmycake.co.za/wp-content/uploads/2023/05/Cupcake-cake-scaled.jpg"
+          alt="cakes"
           className="about-us-image"
         />
       </div>

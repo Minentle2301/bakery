@@ -7,7 +7,7 @@ function MenuItemCard({ item }) {
       <img
         src={item.image}
         alt={item.name}
-        style={{ width: '289px', height: '250px' }} // Adjust the dimensions as needed
+        style={{ width: '289px', height: '250px' }} 
       />
       <h3>{item.name}</h3>
       <p>{item.description}</p>
